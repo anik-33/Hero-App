@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "image": "https://i.ibb.co.com/3YdRzh5s/575dcd9d-a193-4192-84e5-055f03892bb5.jpg",
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "image": "https://i.ibb.co.com/DfLNb56D/4d91e54e-4f1f-43fa-9b38-16c84e9a3977.jpg",
     "title": "Instagram",
     "companyName": "Meta Platforms, Inc.",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "image": "https://i.ibb.co.com/Qj8W7nym/a30a6095-8afb-43f6-a5a5-399f699c2763.jpg",
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 3,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "image": "https://www.pinterest.com/pin/402790760428968428/",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "image": "https://i.ibb.co.com/DDFxMfYZ/Facebook-logo.jpg",
     "title": "Facebook",
     "companyName": "Meta Platforms, Inc.",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Google_Maps_icon_(2020).svg",
+    "image": "https://www.pinterest.com/pin/402790760428968428/",
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 6,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Whatsapp.svg",
+    "image": "https://www.pinterest.com/pin/402790760428968428/",
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms, Inc.",
     "id": 7,
@@ -116,7 +116,7 @@
     "size": 80,
     "reviews": 95000000,
     "ratingAvg": 4.5,
-    "downloads": 10000000000,
+    "downloads": "10000000000",
     "ratings": [
       { "name": "1 star", "count": 3000000 },
       { "name": "2 star", "count": 4000000 },
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Twitter_logo.svg",
+    "image": "https://www.pinterest.com/pin/402790760428968428/",
     "title": "X (Twitter)",
     "companyName": "X Corp.",
     "id": 8,
@@ -134,7 +134,7 @@
     "size": 70,
     "reviews": 12000000,
     "ratingAvg": 4.0,
-    "downloads": 2000000000,
+    "downloads": "2000000000",
     "ratings": [
       { "name": "1 star", "count": 1000000 },
       { "name": "2 star", "count": 1300000 },
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Netflix_logo.svg",
+    "image": "https://www.pinterest.com/pin/402790760428968428/",
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
     "id": 9,
@@ -152,7 +152,7 @@
     "size": 125,
     "reviews": 28000000,
     "ratingAvg": 4.6,
-    "downloads": 1000000000,
+    "downloads": "1000000000",
     "ratings": [
       { "name": "1 star", "count": 1200000 },
       { "name": "2 star", "count": 1500000 },
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Gmail_Icon.svg",
+    "image": "https://www.pinterest.com/pin/402790760428968428/",
     "title": "Gmail",
     "companyName": "Google LLC",
     "id": 10,
@@ -170,7 +170,7 @@
     "size": 65,
     "reviews": 32000000,
     "ratingAvg": 4.5,
-    "downloads": 10000000000,
+    "downloads": "10000000000",
     "ratings": [
       { "name": "1 star", "count": 900000 },
       { "name": "2 star", "count": 1200000 },
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Google_Play_2022_logo.svg",
+    "image": "https://www.pinterest.com/pin/402790760428968428/",
     "title": "Google Play Store",
     "companyName": "Google LLC",
     "id": 11,
@@ -188,7 +188,7 @@
     "size": 60,
     "reviews": 90000000,
     "ratingAvg": 4.2,
-    "downloads": 10000000000,
+    "downloads": "10000000000",
     "ratings": [
       { "name": "1 star", "count": 6000000 },
       { "name": "2 star", "count": 8000000 },
@@ -197,52 +197,16 @@
       { "name": "5 star", "count": 36000000 }
     ]
   },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Zoom_App_Logo.png",
-    "title": "Zoom",
-    "companyName": "Zoom Video Communications",
-    "id": 12,
-    "description": "Video conferencing and online meetings made simple.",
-    "size": 75,
-    "reviews": 18000000,
-    "ratingAvg": 4.4,
-    "downloads": 1000000000,
-    "ratings": [
-      { "name": "1 star", "count": 900000 },
-      { "name": "2 star", "count": 1200000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 9900000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Telegram_2019_Logo.svg",
-    "title": "Telegram",
-    "companyName": "Telegram FZ-LLC",
-    "id": 13,
-    "description": "Fast, secure, and cloud-based messaging with unlimited file sharing.",
-    "size": 80,
-    "reviews": 16000000,
-    "ratingAvg": 4.6,
-    "downloads": 1000000000,
-    "ratings": [
-      { "name": "1 star", "count": 700000 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 8300000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg",
+   {
+    "image": "https://www.pinterest.com/pin/402790760428968428/",
     "title": "LinkedIn",
     "companyName": "Microsoft Corporation",
-    "id": 14,
+    "id": 12,
     "description": "Grow your professional network and discover new career opportunities.",
     "size": 85,
     "reviews": 11000000,
     "ratingAvg": 4.3,
-    "downloads": 1000000000,
+    "downloads": "1000M",
     "ratings": [
       { "name": "1 star", "count": 800000 },
       { "name": "2 star", "count": 1000000 },
@@ -252,15 +216,15 @@
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png",
+    "image": "https://www.pinterest.com/pin/402790760428968428/",
     "title": "Pinterest",
     "companyName": "Pinterest, Inc.",
-    "id": 15,
+    "id": 13,
     "description": "Discover and save creative ideas for any project or interest.",
     "size": 90,
     "reviews": 13000000,
     "ratingAvg": 4.5,
-    "downloads": 1000000000,
+    "downloads": "1000M",
     "ratings": [
       { "name": "1 star", "count": 700000 },
       { "name": "2 star", "count": 900000 },
@@ -268,23 +232,6 @@
       { "name": "4 star", "count": 3500000 },
       { "name": "5 star", "count": 5900000 }
     ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Google_Photos_icon.svg",
-    "title": "Google Photos",
-    "companyName": "Google LLC",
-    "id": 16,
-    "description": "Store, share, and organize your photos with AI-powered tools.",
-    "size": 100,
-    "reviews": 15000000,
-    "ratingAvg": 4.7,
-    "downloads": 10000000000,
-    "ratings": [
-      { "name": "1 star", "count": 600000 },
-      { "name": "2 star", "count": 800000 },
-      { "name": "3 star", "count": 1800000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 8600000 }
-    ]
   }
 ]
+ 

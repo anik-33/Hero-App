@@ -20,7 +20,7 @@ const { products, loading } = useProducts()
         </div>
         <div>
           <Link to={`/allapps`}>
-           <button className='btn btn-primary max-w-screen-xl mx-auto my-5 flex justify-center items-center'>Show All</button>
+           <button className='w-[150px] btn text-white max-w-screen-xl mx-auto my-5 flex justify-center items-center bg-gradient-to-r from-[#632EE3] to-[#9F62F2]'>Show All</button>
           </Link>
           
         </div>

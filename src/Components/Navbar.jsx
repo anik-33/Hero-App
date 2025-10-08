@@ -59,7 +59,7 @@ const normalStyle = "text-gray-700 hover:text-[#632EE3] transition";
         </ul>
       </div>
       <div className="navbar-end ">
-        <li className='btn btn-primary flex'>
+        <li className='btn text-white flex bg-gradient-to-r from-[#632EE3] to-[#9F62F2]'>
           <FaGithub />
           <NavLink to={'https://github.com/anik-33'}>Contribution</NavLink>
         </li>
