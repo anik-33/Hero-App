@@ -4,7 +4,7 @@
     "title": "YouTube",
     "companyName": "Google LLC",
     "id": 1,
-    "description": "Watch, upload, and share videos from creators around the world.",
+    "description": "YouTube is the world’s largest online video-sharing and streaming platform, enabling people everywhere to upload, watch, share, and engage with video content across an immense range of subjects. Founded in 2005 by three former PayPal employees, YouTube quickly transformed from a simple startup into a global cultural force after being acquired by Google in 2006. At its heart, YouTube democratizes media production: anyone with an internet connection can create a channel, publish videos, and reach audiences without traditional gatekeepers. The platform hosts everything from short-form clips and music videos to long-form documentaries, live streams, tutorials, educational lectures, and user-created entertainment. YouTube’s recommendation algorithms play a central role in discovery, suggesting videos tailored to viewers’ interests and viewing histories, which helps users find new creators and niche topics. Community features such as comments, community posts, playlists, and live chat during streams foster interaction and allow creators to build loyal followings. YouTube introduced Shorts to compete with other short-video formats, and it continues to expand features like Chapters, Transcripts, and Premiere to support both creators and viewers. Monetization options such as ad revenue sharing, channel memberships, Super Chat, Super Thanks, and merchandise shelf enable many creators to earn income and turn content creation into a profession. The platform also functions as an important distribution channel for advertisers and brands, which collaborate with creators to produce sponsored content and reach targeted demographics. From an educational perspective, millions of learners and educators rely on YouTube for accessible lessons in science, mathematics, language learning, technology, and the arts, making it a vast informal learning resource. YouTube has given rise to new forms of celebrity and entrepreneurship, with creators launching careers in music, film, publishing, and traditional media, and often using the platform to test ideas and grow audiences. Despite its benefits, YouTube faces complex challenges related to copyright enforcement, content moderation, misinformation, and the balance between free expression and community safety. The company invests in machine learning, human reviewers, and policy updates to address these concerns while seeking to be transparent about enforcement and appeals processes. Accessibility features like captions, auto-translate, and mobile apps ensure content reaches global audiences across many countries and languages.",
     "size": "120MB",
     "reviews": 52000000,
     "ratingAvg": 4.5,
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/vYxvMph/playstore-facebook.jpg",
+    "image": "https://i.ibb.co.com/DDFxMfYZ/Facebook-logo.jpg",
     "title": "Facebook",
     "companyName": "Meta Platforms, Inc.",
     "id": 2,
-    "description": "Connect with friends, share photos, and stay updated on social media.",
+    "description": "Facebook is the world’s largest online video-sharing and streaming platform, enabling people everywhere to upload, watch, share, and engage with video content across an immense range of subjects. Founded in 2005 by three former PayPal employees, YouTube quickly transformed from a simple startup into a global cultural force after being acquired by Google in 2006. At its heart, YouTube democratizes media production: anyone with an internet connection can create a channel, publish videos, and reach audiences without traditional gatekeepers. The platform hosts everything from short-form clips and music videos to long-form documentaries, live streams, tutorials, educational lectures, and user-created entertainment. YouTube’s recommendation algorithms play a central role in discovery, suggesting videos tailored to viewers’ interests and viewing histories, which helps users find new creators and niche topics. Community features such as comments, community posts, playlists, and live chat during streams foster interaction and allow creators to build loyal followings. YouTube introduced Shorts to compete with other short-video formats, and it continues to expand features like Chapters, Transcripts, and Premiere to support both creators and viewers. Monetization options such as ad revenue sharing, channel memberships, Super Chat, Super Thanks, and merchandise shelf enable many creators to earn income and turn content creation into a profession. The platform also functions as an important distribution channel for advertisers and brands, which collaborate with creators to produce sponsored content and reach targeted demographics. From an educational perspective, millions of learners and educators rely on YouTube for accessible lessons in science, mathematics, language learning, technology, and the arts, making it a vast informal learning resource. .",
     "size": "95MB",
     "reviews": 48000000,
     "ratingAvg": 4.2,
@@ -36,11 +36,11 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/XJktqjJ/instagram-app.jpg",
+    "image": "https://i.ibb.co.com/prPcJVfH/2aa40498-b68d-4a9d-af36-c8fd110d6bda.jpg",
     "title": "Instagram",
     "companyName": "Meta Platforms, Inc.",
     "id": 3,
-    "description": "Share your moments, stories, and reels with your followers.",
+    "description": "Instagram is the world’s largest online video-sharing and streaming platform, enabling people everywhere to upload, watch, share, and engage with video content across an immense range of subjects. Founded in 2005 by three former PayPal employees, YouTube quickly transformed from a simple startup into a global cultural force after being acquired by Google in 2006. At its heart, YouTube democratizes media production: anyone with an internet connection can create a channel, publish videos, and reach audiences without traditional gatekeepers. The platform hosts everything from short-form clips and music videos to long-form documentaries, live streams, tutorials, educational lectures, and user-created entertainment. YouTube’s recommendation algorithms play a central role in discovery, suggesting videos tailored to viewers’ interests and viewing histories, which helps users find new creators and niche topics. Community features such as comments, community posts, playlists, and live chat during streams foster interaction and allow creators to build loyal followings. YouTube introduced Shorts to compete with other short-video formats, and it continues to expand features like Chapters, Transcripts, and Premiere to support both creators and viewers. Monetization options such as ad revenue sharing, channel memberships, Super Chat, Super Thanks, and merchandise shelf enable many creators to earn income and turn content creation into a profession. The platform also functions as an important distribution channel for advertisers and brands, which collaborate with creators to produce sponsored content and reach targeted demographics. From an educational perspective, millions of learners and educators rely on YouTube for accessible lessons in science, mathematics, language learning, technology, and the arts, making it a vast informal learning resource. YouTube has given rise to new forms of celebrity and entrepreneurship, with creators launching careers in music, film, publishing, and traditional media, and often using the platform to test ideas and grow audiences. Despite its benefits, YouTube faces complex challenges related to copyright enforcement, content moderation, misinformation, and the balance between free expression and community safety.",
     "size": "110MB",
     "reviews": 43000000,
     "ratingAvg": 4.4,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/BsNqsnv/whatsapp-app.jpg",
+    "image": "https://i.ibb.co.com/JRv09mpD/b7839d7c-4ad7-4fc2-a0ab-f5b64cd81c7d.jpg",
     "title": "WhatsApp Messenger",
     "companyName": "Meta Platforms, Inc.",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/FK8WvJM/tiktok-app.jpg",
+    "image": "https://i.ibb.co.com/xSd6McmZ/f7765a10-4bb9-492a-8e82-b1ce170aae57.jpg",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/Z6Kkp5H/snapchat-app.jpg",
+    "image": "https://i.ibb.co.com/qM6zdJk9/3ae3d17e-9326-43e8-9547-88c0310915f8.jpg",
     "title": "Snapchat",
     "companyName": "Snap Inc.",
     "id": 6,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/bbqJbjt/spotify-app.jpg",
+    "image": "https://i.ibb.co.com/HmtH5k2/a30a6095-8afb-43f6-a5a5-399f699c2763.jpg",
     "title": "Spotify",
     "companyName": "Spotify AB",
     "id": 7,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/VpWkLHZ/netflix-app.jpg",
+    "image": "https://i.ibb.co.com/fYG5QMHt/b08abe4f-6db1-485f-ade0-e9ec5ec6a682.jpg",
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
     "id": 8,
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/n6SmYr7/twitter-x-app.jpg",
+    "image": "https://i.ibb.co.com/zTSkxZPD/Warum-Gro-und-Kleinschreibung-so-wichtig-ist.jpg",
     "title": "X (Twitter)",
     "companyName": "X Corp.",
     "id": 9,
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/DQpZr3z/gmail-app.jpg",
+    "image": "https://i.ibb.co.com/kswXmYPM/Gmail-is-a-free-email-service-developed-by-Google.jpg",
     "title": "Gmail",
     "companyName": "Google LLC",
     "id": 10,
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/K9kcsFR/telegram-app.jpg",
+    "image": "https://i.ibb.co.com/1YW1PzqC/d61a9b19-f726-40f5-bcbf-5a61d8b3e455.jpg",
     "title": "Telegram",
     "companyName": "Telegram FZ-LLC",
     "id": 11,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/3k8sV5C/google-maps-app.jpg",
+    "image": "https://i.ibb.co.com/gZHT0B2h/Logo-do-google-maps-Premium-Vector-Freepik.jpg",
     "title": "Google Maps",
     "companyName": "Google LLC",
     "id": 12,
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/Qrs9V7g/linkedin-app.jpg",
+    "image": "https://i.ibb.co.com/d06yYYCD/Vector-square-linkedin-logo-isolated-on.jpg",
     "title": "LinkedIn",
     "companyName": "LinkedIn Corporation",
     "id": 13,
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/jTsg5w3/pinterest-app.jpg",
+    "image": "https://i.ibb.co.com/k6SrMNvW/13197da9-a984-4081-ac16-018f2264c7fe.jpg",
     "title": "Pinterest",
     "companyName": "Pinterest, Inc.",
     "id": 14,
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "https://i.ibb.co.com/NmHZPn7/zoom-app.jpg",
+    "image": "https://i.ibb.co.com/TDzcLSgR/4f593034-7876-4b76-86b4-67a620e3dd47.jpg",
     "title": "Zoom",
     "companyName": "Zoom Video Communications, Inc.",
     "id": 15,

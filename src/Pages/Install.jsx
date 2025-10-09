@@ -63,7 +63,7 @@ const Install = () => {
 
                         <div className="flex items-center gap-3">
                             <img
-                                className='w-40 h-28 object-cover'
+                                className='w-25 '
                                 src={p.image}
                                 alt={p.name}
                             />

@@ -15,71 +15,72 @@ const AppDetail = () => {
 
     if (loading) return <SkeletonLoader></SkeletonLoader>
 
-    const { image, title, companyName, size, description, 
+    const { image, title, companyName, size, description,
         reviews, ratingAvg, downloads, ratings } = product || {}
 
 
 
     return (
         <div className='max-w-screen-xl mx-auto '>
-            <div className="   border border-dashed border-gray-300  flex items-center p-6 w-full">
-            {/* Left app img section */}
-            <div className="flex-shrink-0 mr-6">
-                <div className="w-32 h-32 flex items-center justify-center text-blue-700">
-                    <img src={image} alt="" />
-                </div>
-            </div>
+           <div className=" flex flex-col sm:flex-row items-center sm:items-start p-4 sm:p-6  ">
+  {/* Left app img section */}
+  <div className="flex-shrink-0 mb-4 sm:mb-0 sm:mr-6 flex justify-center w-full sm:w-auto">
+    <div className="w-48 sm:w-[280px] flex items-center justify-center text-blue-700">
+      <img src={image} alt={title} className="max-w-full h-auto object-contain" />
+    </div>
+  </div>
 
-            {/* Right side section */}
-            <div className="flex-1">
-                <h2 className="text-xl font-semibold text-gray-800">
-                    {title}
-                </h2>
-                <p className="text-sm text-gray-500 mb-4">
-                    Developed by
-                    <span className="text-indigo-600 font-medium cursor-pointer">
-                        {companyName}
-                    </span>
-                </p>
-                <div className='border-b border-dashed mt-5 mb-5'>
+  {/* Right side section */}
+  <div className="flex-1 text-center sm:text-left">
+    <h2 className="text-lg sm:text-xl font-semibold text-gray-800">{title}</h2>
+    <p className="text-sm text-gray-500 mb-3">
+      Developed by{" "}
+      <span className="text-indigo-600 ml-1 font-medium cursor-pointer hover:underline">
+        {companyName}
+      </span>
+    </p>
 
-                </div>
-                {/* reviews and download section */}
-                <div className="flex items-center gap-8 mb-5">
-                    <div className="text-center">
-                        <div className="text-green-500 text-xl">⬇️</div>
-                        <p className="text-xs text-gray-500">Downloads</p>
-                        <p className="font-semibold text-lg text-gray-800">{downloads}</p>
-                    </div>
+    <div className="border-b border-dashed mb-4 sm:mb-5"></div>
 
-                    <div className="text-center">
-                        <div className="text-orange-400 text-xl">⭐</div>
-                        <p className="text-xs text-gray-500">Average Ratings</p>
-                        <p className="font-semibold text-lg text-gray-800">{ratingAvg}</p>
-                    </div>
+    {/* Reviews & Download section */}
+    <div className="flex flex-wrap justify-center sm:justify-start gap-6 mb-5">
+      <div className="text-center">
+        <div className="text-green-500 text-xl">⬇️</div>
+        <p className="text-xs text-gray-500">Downloads</p>
+        <p className="font-semibold text-base sm:text-lg text-gray-800">{downloads}</p>
+      </div>
 
-                    <div className="text-center">
-                        <div className="text-purple-500 text-xl">👍</div>
-                        <p className="text-xs text-gray-500">Total Reviews</p>
-                        <p className="font-semibold text-lg text-gray-800">{reviews}</p>
-                    </div>
-                </div>
+      <div className="text-center">
+        <div className="text-orange-400 text-xl">⭐</div>
+        <p className="text-xs text-gray-500">Average Ratings</p>
+        <p className="font-semibold text-base sm:text-lg text-gray-800">{ratingAvg}</p>
+      </div>
 
-                
-                <button  onClick={() => appInstall(product)} className="bg-green-500 hover:bg-green-600 text-white font-medium px-5 py-2 rounded-md shadow">
-                    Install Now ({size})
-                </button>
-                <div className='border-b border-dashed mt-7'></div>
-            </div>
-           
-        </div>
+      <div className="text-center">
+        <div className="text-purple-500 text-xl">👍</div>
+        <p className="text-xs text-gray-500">Total Reviews</p>
+        <p className="font-semibold text-base sm:text-lg text-gray-800">{reviews}</p>
+      </div>
+    </div>
+
+    <button
+      onClick={() => appInstall(product)}
+      className="bg-green-500 hover:bg-green-600 text-white font-medium px-5 py-2 rounded-md shadow w-full sm:w-auto"
+    >
+      Install Now ({size})
+    </button>
+
+    <div className="border-b border-dashed mt-6"></div>
+  </div>
+</div>
+
 
 
             <Rechart product={product}></Rechart>
 
-            <div>
-                <h1 className='font-bold text-2xl'>Description</h1>
-                <p>{ description}</p>
+            <div className='mb-7'>
+                <h1 className='font-bold text-2xl mb-2'>Description</h1>
+                <p>{description}</p>
             </div>
         </div>
     );
