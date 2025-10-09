@@ -52,7 +52,7 @@ const normalStyle = "text-gray-700 hover:text-[#632EE3] transition";
             >Apps</NavLink>
           </li>
           <li>
-            <NavLink to={`/install`}
+            <NavLink to={`installation`}
             className={({ isActive }) => (isActive ? activeStyle : normalStyle)}
             >Instalation</NavLink>
           </li>

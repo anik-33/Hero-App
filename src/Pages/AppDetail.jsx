@@ -2,6 +2,9 @@ import React from 'react';
 import { useParams } from 'react-router';
 import useProducts from '../hooks/useProducts';
 import Rechart from '../Components/Rechart';
+import { appInstall } from '../utils/localStorage';
+import SkeletonLoader from '../Components/SkeletonLoader';
+
 
 const AppDetail = () => {
 
@@ -10,9 +13,10 @@ const AppDetail = () => {
 
     const product = products.find(p => p.id === Number(id))
 
-    if (loading) return <p>Loading.......</p>
+    if (loading) return <SkeletonLoader></SkeletonLoader>
 
-    const { image, title, companyName, size, description, reviews, ratingAvg, downloads, ratings } = product || {}
+    const { image, title, companyName, size, description, 
+        reviews, ratingAvg, downloads, ratings } = product || {}
 
 
 
@@ -62,7 +66,7 @@ const AppDetail = () => {
                 </div>
 
                 
-                <button className="bg-green-500 hover:bg-green-600 text-white font-medium px-5 py-2 rounded-md shadow">
+                <button  onClick={() => appInstall(product)} className="bg-green-500 hover:bg-green-600 text-white font-medium px-5 py-2 rounded-md shadow">
                     Install Now ({size})
                 </button>
                 <div className='border-b border-dashed mt-7'></div>

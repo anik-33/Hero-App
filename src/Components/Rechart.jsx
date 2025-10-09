@@ -19,7 +19,7 @@ const Rechart = ({ product }) => {
   return bNum - aNum; // eita descending order korlam (5 to 1)
 });
   return (
-    <div className=" p-6">
+    <div className=" p-6 border-b border-gray-500 mb-4">
       <h2 className="font-semibold text-lg mb-4 ml-15">Ratings</h2>
 
       

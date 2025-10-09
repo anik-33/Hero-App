@@ -9,7 +9,7 @@ const AppCard = ({ product }) => {
         <div className='bg-white'>
 
             <Link to={`/AppDetails/${id}`}>
-                <div className='flex justify-center items-center m-4 rounded-md bg-gray-300'>
+                <div className='flex justify-center items-center m-4  '>
                     <img className='p-3 w-[300px] h-[300px] ' src={image} alt="" />
                 </div>
                 <h1 className='p-3'>{title}</h1>

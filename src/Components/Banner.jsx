@@ -15,8 +15,8 @@ const Banner = () => {
             <p className='text-[#627382]'>Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
 
             <div className='mt-5 flex gap-2'>
-               <Link><button className='btn bg-white text-black'><PiGooglePlayLogoLight /> Google Play</button></Link>
-               <Link><button className='btn bg-white text-black'><FaAppStore /> App Store</button></Link>
+               <Link to={'https://play.google.com/store/apps/'}><button className='btn bg-white text-black'><PiGooglePlayLogoLight /> Google Play</button></Link>
+               <Link to={'https://www.apple.com/app-store/'}><button className='btn bg-white text-black'><FaAppStore /> App Store</button></Link>
             </div>
 
             <div className='p-2 mt-2'>
@@ -26,6 +26,7 @@ const Banner = () => {
 
          </div>
 
+            {/* text banner */}
          <section className=" bg-gradient-to-r from-[#6a11cb] to-[#2575fc] text-white py-16 px-6 mt-[-22px] md:mt-[-56px]">
             <div className=" text-center">
                <h2 className="text-3xl md:text-4xl font-semibold mb-12">
