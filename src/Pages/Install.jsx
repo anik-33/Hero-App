@@ -7,6 +7,7 @@ import { loadToInstall, removeFromlistinstal, } from '../utils/localStorage';
 const Install = () => {
     const [install, setInstall] = useState(() => loadToInstall())
     const [sortOrder, setSortOrder] = useState('none')
+    console.log(install)
 
     // if (!install.length) return <p>No Data Available</p>
     // nooh this makes design bad
@@ -45,7 +46,7 @@ const Install = () => {
                    ({sortedItem.length}) Apps Found.
                 </h1>
 
-                <label className='form-control w-full max-w-xs'>
+                <label className='form-control  max-w-xs'>
                     <select
                         className='select select-bordered'
                         value={sortOrder}
@@ -78,7 +79,7 @@ const Install = () => {
                                         <MdDownload /> {p.downloads}
                                     </span>
                                     <span className="flex items-center gap-1 text-orange-400">
-                                        ★ 5
+                                        ★ {p.ratingAvg}
                                     </span>
                                     <span>{p.size}</span>
                                 </div>
